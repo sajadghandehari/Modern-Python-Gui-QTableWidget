@@ -12,7 +12,7 @@
   <br>
 </h1>
 
-<h4 align="center">a graphical solve for gas pipeline problem using pyqt and turtle </a>.</h4>
+<h4 align="center">design modern table using pyqt and python</a>.</h4>
 
 <p align="center">
   <a ><img src="https://img.shields.io/badge/Python-3.8-1D5?style=flat&logo=sa&logoColor=1D5B79&labelColor=176B87&color=637E76"></a>
@@ -26,3 +26,11 @@
   </a>
   </a>
 </p>
+
+# A short video of project
+https://github.com/sajadghandehari/Modern-Python-Gui/assets/84021911/3dbd0316-dcc3-4baa-80ff-734718bb983a
+
+
+
+
+
